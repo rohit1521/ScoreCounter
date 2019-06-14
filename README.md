@@ -1,2 +1,2 @@
 # ScoreCounter
-just a simple score counter
+Just a simple counter using HTML, CSS and Javascript.
